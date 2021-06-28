@@ -43,7 +43,7 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Aditya664&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
 <br>
 
@@ -54,7 +54,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aditya664&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Aditya664&count_private=true&show_icons=true&theme=dracula">
-<img aline ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical"/>
+<img aline ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&compact=True"/>
 
 </a>
 
