@@ -55,7 +55,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aditya664&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Aditya664&count_private=true&show_icons=true&theme=dracula">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&layout=compact)](https://github.com/Aditya664/github-readme-stats)
+<img aline ='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&layout=compact/>
 
 </a>
 
