@@ -62,3 +62,7 @@
 
 
 <br>
+<p align="center">
+  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>-->
+  <img src="https://profile-counter.glitch.me/SumanthBajjuri07/count.svg">
+</p>
