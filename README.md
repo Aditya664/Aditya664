@@ -1,60 +1,524 @@
-<div align="center">
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<!--                    ADITYA DESHMUKH                         -->
+
+<!--                 FUTURE.DEV // ONLINE                       -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ADITYA%20DESHMUKH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+<p align="center">
+  <samp>
+    FRONTEND ENGINEER&nbsp;&nbsp; // &nbsp;&nbsp;SYSTEM BUILDER&nbsp;&nbsp; // &nbsp;&nbsp;AI EXPLORER
+  </samp>
+</p>
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile:
-</div>
+<p align="center">
+  <a href="https://github.com/Aditya664">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-deshmukh-ad0823/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│   > booting aditya.dev                                            │
+│                                                                    │
+│   [████████████████████████████████████████████████] 100%         │
+│                                                                    │
+│   ✓ frontend systems initialized                                  │
+│   ✓ component architecture loaded                                │
+│   ✓ performance engine online                                    │
+│   ✓ engineering mindset detected                                │
+│   ✓ AI interface connected                                       │
+│                                                                    │
+│   SYSTEM STATUS :: ONLINE                                         │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
 
-- 🔭 I’m currently working on My Blog, Github Project
+# `01 // WHOAMI`
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering
+```ts
+const developer = {
+  name: "Aditya Deshmukh",
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+  role: "Frontend Engineer",
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+  experience: "4+ years",
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+  core: [
+    "React",
+    "Angular",
+    "TypeScript",
+    "JavaScript"
+  ],
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  architecture: [
+    "Reusable Components",
+    "State Management",
+    "REST APIs",
+    "Scalable Frontend Systems"
+  ],
 
-<br>
-<br>
-  <br>
+  engineering: [
+    "Performance",
+    "Accessibility",
+    "Testing",
+    "Clean Code"
+  ],
 
- ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=redical&hide_border=true&area=true)
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+  currentlyExploring: [
+    ".NET",
+    "Web APIs",
+    "AI Engineering"
+  ]
+};
+```
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+> I build interfaces that are not only functional —
+> **they are designed to scale.**
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
--------
+---
+
+# `02 // THE STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,sass,redux,git,github,vscode" />
+</p>
+
+```text
+                         ┌───────────────┐
+                         │   FRONTEND    │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+           REACT              ANGULAR          TYPESCRIPT
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                        ┌─────────────────┐
+                        │   ARCHITECTURE  │
+                        └────────┬────────┘
+                                 │
+                   ┌─────────────┼─────────────┐
+                   ▼             ▼             ▼
+                 STATE          API        COMPONENTS
+              MANAGEMENT      INTEGRATION    & UI
+                   │             │             │
+                   └─────────────┼─────────────┘
+                                 ▼
+                           USER EXPERIENCE
+```
+
+---
+
+# `03 // ENGINEERING_MODE`
+
+I don't just write UI.
+
+I think about what happens **behind the UI**.
+
+```text
+                 ┌─────────────────────┐
+                 │     USER NEED       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │      DESIGN        │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       BUILD        │
+                 └──────────┬──────────┘
+                            ↓
+             ┌──────────────┴──────────────┐
+             ↓                             ↓
+        PERFORMANCE                     TESTING
+             │                             │
+             └──────────────┬──────────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       REVIEW        │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │        SHIP         │
+                 └─────────────────────┘
+```
+
+### My priorities
+
+`SCALABILITY` · `PERFORMANCE` · `REUSABILITY` · `QUALITY`
+
+---
+
+# `04 // PERFORMANCE_PROTOCOL`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                  PERFORMANCE CORE                   │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  RENDERING       → Efficient UI updates             │
+│  BUNDLING        → Smaller application payloads     │
+│  LOADING         → Lazy loading / code splitting    │
+│  STATE           → Efficient state management       │
+│  API             → Avoid unnecessary requests       │
+│  COMPONENTS      → Reusable & optimized             │
+│  ACCESSIBILITY   → Usable by everyone               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+> **Measure → Identify → Optimize → Verify**
+
+Performance isn't a final step.
+
+**It's an architectural decision.**
+
+---
+
+# `05 // ENTERPRISE_MODE`
+
+I've worked on **business-critical applications** where reliability, maintainability, and scalability matter.
+
+```text
+                       ENTERPRISE
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+       CUSTOMER          UTILITY          ERP
+       SYSTEMS          SYSTEMS         MODULES
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                    BUSINESS LOGIC
+                           │
+              ┌────────────┼────────────┐
+              ↓            ↓            ↓
+           BILLING       FORMS        PAYMENTS
+              │            │            │
+              └────────────┼────────────┘
+                           ↓
+                       REST APIs
+                           │
+                           ↓
+                        BACKEND
+```
+
+### Experience includes
+
+* Utility Management Systems
+* ERP Modules
+* Customer Management
+* Billing Workflows
+* Meter Reading
+* Payment Workflows
+* Complex Forms
+* REST API Integration
+* Legacy Application Modernization
+
+---
+
+# `06 // PROJECT::UTILITY`
+
+### 💧 Utility Management System
+
+A web-based enterprise application for managing utility services, customers, billing, meter readings, and payment-related operations.
+
+```text
+FRONTEND
+   │
+   ├── Angular
+   ├── TypeScript
+   ├── HTML
+   ├── CSS
+   │
+   ├── Reusable Components
+   ├── Forms & Validation
+   ├── REST API Integration
+   ├── Bug Fixing
+   └── Performance Improvements
+```
+
+### Mission
+
+> Turn complex business workflows into simple, reliable interfaces.
+
+---
+
+# `07 // REACT_LAB`
+
+```text
+                 ┌──────────────────┐
+                 │      REACT       │
+                 └────────┬─────────┘
+                          │
+             ┌────────────┼────────────┐
+             ↓            ↓            ↓
+        COMPONENTS       HOOKS       STATE
+             │            │            │
+             └────────────┼────────────┘
+                          ↓
+                    REDUX TOOLKIT
+                          │
+                          ↓
+                      REST APIs
+                          │
+                          ↓
+                    TEST + OPTIMIZE
+                          │
+                          ↓
+                    PRODUCTION READY
+```
+
+Building React applications with a focus on:
+
+`Reusable UI` · `Type Safety` · `State Management` · `Performance`
+
+---
+
+# `08 // AI_INTERFACE`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                 AI DEVELOPMENT LOOP                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   IDEA                                               ║
+║    ↓                                                 ║
+║   PROMPT                                             ║
+║    ↓                                                 ║
+║   GENERATE                                           ║
+║    ↓                                                 ║
+║   REVIEW                                             ║
+║    ↓                                                 ║
+║   TEST                                               ║
+║    ↓                                                 ║
+║   REFACTOR                                           ║
+║    ↓                                                 ║
+║   SHIP                                               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+I use **AI-assisted development** for:
+
+* ⚡ Faster implementation
+* 🔍 Code exploration
+* 🐛 Debugging
+* ♻️ Refactoring
+* 🧪 Test generation
+* 📚 Learning
+* 📝 Documentation
+
+> **AI writes possibilities. Engineers make decisions.**
+
+---
+
+# `09 // QUALITY_GATE`
+
+```text
+                CODE
+                  │
+                  ▼
+            ┌────────────┐
+            │   BUILD    │
+            └─────┬──────┘
+                  ↓
+            ┌────────────┐
+            │   TEST     │
+            └─────┬──────┘
+                  ↓
+            ┌────────────┐
+            │   REVIEW   │
+            └─────┬──────┘
+                  ↓
+         ┌──────────────────┐
+         │  80%+ COVERAGE   │
+         └────────┬─────────┘
+                  ↓
+               RELEASE
+```
+
+### Quality principles
+
+`Clean Code`
+
+`Reusable Architecture`
+
+`Type Safety`
+
+`Unit Testing`
+
+`Code Reviews`
+
+`Regression Prevention`
+
+---
+
+# `10 // CURRENTLY_LOADING`
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│  FRONTEND ARCHITECTURE     ████████████████████   │
+│  REACT                     ████████████████████   │
+│  ANGULAR                   ████████████████████   │
+│  TYPESCRIPT                ███████████████████░   │
+│  JAVASCRIPT                ████████████████████   │
+│  PERFORMANCE               ██████████████████░░   │
+│  .NET                      ███████████████░░░░░   │
+│  WEB API                   ██████████████░░░░░░   │
+│  AI ENGINEERING            ████████████░░░░░░░░   │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+---
+
+# `11 // 2026_PROTOCOL`
+
+```text
+                 2026
+                   │
+        ┌──────────┴──────────┐
+        ↓                     ↓
+    FRONTEND                BACKEND
+        │                     │
+    React                   .NET
+    Angular                 Web API
+    TypeScript              Databases
+        │                     │
+        └──────────┬──────────┘
+                   ↓
+             FULL-STACK
+              THINKING
+                   │
+                   ↓
+            AI ENGINEERING
+```
+
+### Objectives
+
+* 🚀 Build production-grade systems
+* 🏗️ Deepen frontend architecture
+* ⚡ Master performance optimization
+* 💻 Strengthen .NET & Web API
+* 🔐 Improve web security
+* ☁️ Explore cloud technologies
+* 🤖 Build AI-powered applications
+
+---
+
+# `12 // GITHUB_TELEMETRY`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aditya664&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# `13 // CONTRIBUTION_MATRIX`
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya664&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+# `14 // ENGINEERING_MANIFESTO`
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  I DON'T CHASE COMPLEXITY.                           │
+│  I CHASE CLARITY.                                    │
+│                                                       │
+│  I DON'T OPTIMIZE EVERYTHING.                        │
+│  I OPTIMIZE WHAT MATTERS.                            │
+│                                                       │
+│  I DON'T JUST BUILD FEATURES.                        │
+│  I BUILD SYSTEMS THAT LAST.                          │
+│                                                       │
+│  I DON'T FOLLOW TECHNOLOGY.                          │
+│  I LEARN HOW TO USE IT.                              │
+│                                                       │
+│  I DON'T REPLACE THINKING WITH AI.                   │
+│  I USE AI TO THINK FASTER.                           │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+# `15 // CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/Aditya664">
+  <img src="https://img.shields.io/badge/GITHUB-Explore-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-deshmukh-ad0823/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <samp>
+    ─────────────────────────────────────────────
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    BUILD THE FUTURE.<br/>
+    ONE COMPONENT AT A TIME.
+  </samp>
+</p>
+
+<p align="center">
+  <strong>⚡ SYSTEM STATUS :: ONLINE</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
+    width="100%"
+  />
+</p>
